@@ -1,0 +1,17 @@
+p{
+	background-color: green;
+}
+
+.secDiv{
+	color:blue;
+}
+
+
+.activeNav{
+	color: #555 !important;
+	background-color: #e7e7e7 !important;
+}
+
+.appHeader{
+	background-color: green;
+}
